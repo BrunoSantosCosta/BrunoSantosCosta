@@ -1,4 +1,6 @@
 ### Hello! I am Bruno Santos 👋
+
+<div display:"flex">
 <div align="center">
   <a href="https://github.com/BrunoSantosCosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantosCosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,7 +16,7 @@
   <img align="center" alt="Bruno-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="./image/eu-icon.png">
 </div>
-  
+  </div>
   ##
  
 <div> 
