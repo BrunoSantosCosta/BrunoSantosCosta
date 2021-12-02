@@ -1,4 +1,6 @@
 ### Hello! I am Bruno Santos 👋
+
+<div style="display:flex">
 <div align="center">
   <a href="https://github.com/BrunoSantosCosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantosCosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,7 +17,7 @@
   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="./image/eu-icon.png">
 </div>
  
- 
+ </div>
 <div> 
     <a href="https://www.linkedin.com/in/bruno-santos-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:brunosanttos667@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
