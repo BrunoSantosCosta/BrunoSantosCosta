@@ -1,4 +1,4 @@
-### Hello! I am Bruno Santos
+### Hello! I am Bruno Santos.
 
 <div style="display:flex">
 <div align="center">
