@@ -1,7 +1,7 @@
 ### Hello! I am Bruno Santos
 
 <div style="display:flex">
-<div align="center">
+<div align="center" style="display:flex">
   <a href="https://github.com/BrunoSantosCosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSantosCosta&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
